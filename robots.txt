@@ -1,0 +1,4 @@
+Sitemap: https://julien.berger.com/sitemapindex.xml
+
+User-Agent: *
+Host: julien.berger.com
