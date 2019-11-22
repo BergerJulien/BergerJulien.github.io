@@ -6,26 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://julien.berger.com/categories/blog.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://julien.berger.com/categories/cat_nikola.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://julien.berger.com/categories/demo.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://julien.berger.com/categories/nikola.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://julien.berger.com/categories/python.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://julien.berger.com/galleries/demo/rss.xml</loc>
   <lastmod>2019-10-30T13:53:00Z</lastmod>
  </sitemap>
@@ -35,10 +15,10 @@
  </sitemap>
  <sitemap>
   <loc>https://julien.berger.com/rss.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
+  <lastmod>2019-10-30T14:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://julien.berger.com/sitemap.xml</loc>
-  <lastmod>2019-10-30T13:53:00Z</lastmod>
+  <lastmod>2019-11-15T16:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
